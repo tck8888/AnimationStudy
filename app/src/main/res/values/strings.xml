@@ -5,4 +5,5 @@
     <string name="title_rotation">旋转动画</string>
     <string name="title_alpha">透明动画</string>
     <string name="title_scale">缩放动画</string>
+    <string name="title_multi_properties">组合动画</string>
 </resources>

@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         mPageModelList.add(new PageModel(RotationFragment.newInstance(R.layout.sample_rotation), R.string.title_rotation));
         mPageModelList.add(new PageModel(AlphaFragment.newInstance(R.layout.sample_alpha), R.string.title_alpha));
         mPageModelList.add(new PageModel(ScaleFragment.newInstance(R.layout.sample_scale), R.string.title_scale));
+        mPageModelList.add(new PageModel(MultiPropertiesFragment.newInstance(R.layout.sample_multi_properties), R.string.title_multi_properties));
 
     }
 
