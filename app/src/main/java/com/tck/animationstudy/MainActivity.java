@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
     {
         mPageModelList.add(new PageModel(TransitionFragment.newInstance(R.layout.sample_translation), R.string.title_translation));
         mPageModelList.add(new PageModel(RotationFragment.newInstance(R.layout.sample_rotation), R.string.title_rotation));
+        mPageModelList.add(new PageModel(AlphaFragment.newInstance(R.layout.sample_alpha), R.string.title_alpha));
+        mPageModelList.add(new PageModel(ScaleFragment.newInstance(R.layout.sample_scale), R.string.title_scale));
 
     }
 
