@@ -6,4 +6,6 @@
     <string name="title_alpha">透明动画</string>
     <string name="title_scale">缩放动画</string>
     <string name="title_multi_properties">组合动画</string>
+    <string name="title_duration">动画延时</string>
+    <string name="ms_with_value">%dms</string>
 </resources>
