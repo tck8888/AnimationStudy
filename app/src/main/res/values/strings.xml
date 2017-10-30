@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">动画学习</string>
+    <string name="title_translation">平移动画</string>
+    <string name="animate">animate</string>
+    <string name="title_rotation">旋转动画</string>
+</resources>
