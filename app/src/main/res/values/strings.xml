@@ -8,4 +8,21 @@
     <string name="title_multi_properties">组合动画</string>
     <string name="title_duration">动画延时</string>
     <string name="ms_with_value">%dms</string>
+    <string name="title_interpolator">差值动画</string>
+
+    <string-array name="interpolators">
+        <item>AccelerateDecelerateInterpolator</item>
+        <item>LinearInterpolator</item>
+        <item>AccelerateInterpolator</item>
+        <item>DecelerateInterpolator</item>
+        <item>AnticipateInterpolator</item>
+        <item>OvershootInterpolator</item>
+        <item>AnticipateOvershootInterpolator</item>
+        <item>BounceInterpolator</item>
+        <item>CycleInterpolator</item>
+        <item>PathInterpolator</item>
+        <item>FastOutLinearInInterpolator</item>
+        <item>FastOutSlowInInterpolator</item>
+        <item>LinearOutSlowInInterpolator</item>
+    </string-array>
 </resources>

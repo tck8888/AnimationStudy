@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         mPageModelList.add(new PageModel(ScaleFragment.newInstance(R.layout.sample_scale), R.string.title_scale));
         mPageModelList.add(new PageModel(MultiPropertiesFragment.newInstance(R.layout.sample_multi_properties), R.string.title_multi_properties));
         mPageModelList.add(new PageModel(DurationFragment.newInstance(R.layout.sample_duration), R.string.title_duration));
+        mPageModelList.add(new PageModel(InterpolatorFragment.newInstance(R.layout.interpolator_duration), R.string.title_interpolator));
 
     }
 
